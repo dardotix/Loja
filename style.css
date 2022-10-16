@@ -33,3 +33,17 @@ section img{
     height: 330px;
    
 }
+.Promotion-header{
+   
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 5%;
+}
+.Promotion-header span{
+    
+    
+}
+.Promotion-header--title{
+    font-weight: bold;
+    color: #161616;
+}
