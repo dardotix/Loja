@@ -161,5 +161,15 @@ footer{
     border-radius: 5px;
 }
 
+@media screen and (max-width: 600px) {
+
+    .logo {
+
+        align-items: center;
+    }
+
+
+}
+    
 
 
