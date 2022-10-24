@@ -161,15 +161,28 @@ footer{
     border-radius: 5px;
 }
 
-@media screen and (max-width: 768px) {
+@media (max-width: 600px){
+
+    section img{
+
+        width: 100%;
+        
+       
+    }
+      
+       
+     
+    
+}
+
 
     
 
 
-    }
 
 
-}
+
+
     
 
 
